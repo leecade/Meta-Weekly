@@ -50,7 +50,7 @@ MyJSONData["data.json"] = [
         "url": "http://webplatformdaily.org/",
         "updated": "daily",
         "type": "web",
-        "keywords": ["Web", "Spec", "HTML", "CSS", "JavaScript", "SNS"],
+        "keywords": ["Web", "Spec", "HTML", "CSS", "JavaScript"],
         "rss": "",
         "twitter": "https://twitter.com/simevidas"
     },
@@ -142,7 +142,7 @@ MyJSONData["data.json"] = [
         "type": "web",
         "keywords": ["HTML", "CSS", "JavaScript", "Browser", "Tools"],
         "rss": "http://jser.info/rss",
-        "twitter": "https://twitter.com/jser_info"
+        "twitter": "https://twitter.com/azu_re"
     },
     {
         "title": "斉藤祐也の海外WEBテク定点観測",
@@ -187,7 +187,7 @@ MyJSONData["data.json"] = [
         "type": "web\n",
         "keywords": ["JavaScript", "Podcast"],
         "rss": "http://feeds.feedburner.com/JavascriptJabber",
-        "twitter": ""
+        "twitter": "https://twitter.com/JSJabber"
     },
     {
         "title": "DailyJS ",
@@ -224,5 +224,14 @@ MyJSONData["data.json"] = [
         "keywords": ["Spec"],
         "rss": "http://www.w3.org/News/news.rss",
         "twitter": "https://twitter.com/W3C"
-    }
+    },
+    {
+        "title": "Echo JS",
+        "url": "http://www.echojs.com/",
+        "updated": "daily",
+        "type": "web",
+        "keywords": ["JavaScript", "HTML5", "Library", "Tools"],
+        "rss": "http://www.echojs.com/rss",
+        "twitter": "https://twitter.com/echojs"
+   }
 ];
